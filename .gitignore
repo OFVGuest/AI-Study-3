@@ -1,3 +1,4 @@
 MNIST_GANs/data/
 MNIST_GANs/trainings/
 SimpleGAN/generated/
+*/data/
